@@ -1,9 +1,11 @@
 # 2025_Delivery_Hospitalizations
 
 Segmented Regression Analysis on Hospitalization Episodes
+
 This repository contains the code and materials for performing a segmented regression analysis using the Prais-Winsten method to evaluate the impact of the ICD-10 coding transition on the number of hospitalization episodes in Portugal between 2010 and 2018.
 
 Key Features:
+
 Data Preprocessing: The data is processed to define key variables such as time, ICD-10 intervention indicator, and time after intervention.
 
 Prais-Winsten Segmented Regression: A Prais-Winsten regression model is used to analyze the time series data and estimate the effects of the ICD-10 transition.
